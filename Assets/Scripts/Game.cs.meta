@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 86372363b676b474e9f201d6035404ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pre_player: {fileID: 1650001904902314, guid: 3b87d9639de726c43a91f8da396a838d,
+      type: 3}
+  - pre_column: {fileID: 6130376574937157770, guid: ef5d90745b88a4ba889ce06e1417bc4d,
+      type: 3}
+  - pre_sphere: {fileID: 6521998363355485408, guid: 7e1645659f3184df6abc62404f8690e2,
+      type: 3}
+  - pre_cam: {fileID: 4780076997278769407, guid: b0115c647d08c48d1a3794ad9f23ca97,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
